@@ -1,0 +1,126 @@
+@font-face
+{
+    font-family: Poppins-Medium;
+    src: url('Poppins-Medium.ttf')
+}
+body{
+    margin: 0px;
+    background-color: #ebe9e9
+}
+.logo_baginda
+{
+    font-size:  30px;
+    text-transform: capitalize;
+    font-weight: bold;
+    letter-spacing: 8px;
+    color: white;
+    font-family: Poppins-Medium;
+}
+.logo_baginda span
+{
+    color:yellow
+}
+.bgnavbaginda
+{
+    background:rgba(0,0,0,0.7);
+}
+
+.baginda
+{
+    font-family: Poppins-Medium;
+    text-decoration: none;
+}
+#background{
+    
+    background: url(bgimage6.jpeg)no-repeat;
+    background-size: cover;
+    padding-top: 50px;
+    height: 600px;
+    
+   
+}
+
+#background .jumbotron{
+    background: none;
+    margin-top: 22px;
+    
+}
+h2{
+    color:white;
+    
+    margin: 0;
+    font-family: Poppins-Medium;
+    
+    
+}
+h2 span{
+    color: yellow;
+    font-family: Poppins-Medium;
+    
+
+}
+p{
+    color:lightgreen;
+    font-size: 18px;
+    margin: 0;
+    font-weight: bold;
+    font-family: Poppins-Medium;
+    
+
+}
+.container{
+    background-color:white;
+    margin-top: 50px;
+    padding-bottom: 37px;
+    padding-top: 20px;
+
+}
+.container p{
+    color: black;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.container :any-link{
+    color: #28a745;
+    text-decoration: none;
+    
+}
+.carousel-item
+{
+    height: 600px;
+    
+}
+.carousel-item img{
+    margin-top: -200px;
+    height: 1000px;
+}
+
+.carouselbaginda{
+    background-color: rgb(67, 68, 65);
+    margin-top: 50px;
+    padding-top:30px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    margin-left:80px;
+    margin-right:80px;
+    color: white;
+}
+#footer{
+    background-color: #102128;
+    margin-top: 79px;
+    color: white;
+    
+}
+#footer .containerfooter{
+    width: 100%;
+    padding-top:10px;
+    padding: 45px;
+    padding-bottom: 10px;
+    
+}
+#footer  p{
+    color: white;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
